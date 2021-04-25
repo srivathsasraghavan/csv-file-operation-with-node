@@ -18,6 +18,11 @@ after succesful execution of the program, the program asks for the input, where 
 csv file to be read and stored in the database
 in our case it would be 'data.csv'
 
+## Enter 
+```
+data.csv
+```
+
 ## Run
 ```
 node retrieve.js
